@@ -5,7 +5,7 @@ add threre
 add four.
 add five
 
-build a new branch
+build a brand new branch
 
 test a new branch
 git test2
